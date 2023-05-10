@@ -4,7 +4,7 @@ This is my home page! My name is Felix Zhu and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/felixzhu1.
+My GitHub [page](http://github.com/felixzhu1).
 
 ### CPSC 120
 
